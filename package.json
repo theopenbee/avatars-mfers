@@ -1,0 +1,35 @@
+{
+  "name": "@theopenbee/avatars-mfers",
+  "version": "0.1.0",
+  "description": "300 mfers by sartoshi as openbee worker avatars",
+  "keywords": [
+    "openbee",
+    "openbee-plugin",
+    "avatars",
+    "mfers",
+    "cc0"
+  ],
+  "license": "(MIT AND CC0-1.0)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theopenbee/avatars-mfers.git"
+  },
+  "homepage": "https://github.com/theopenbee/avatars-mfers#readme",
+  "bugs": {
+    "url": "https://github.com/theopenbee/avatars-mfers/issues"
+  },
+  "files": [
+    "avatars",
+    "icon.svg",
+    "openbee.plugin.json",
+    "NOTICE.md"
+  ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/*.test.mjs"
+  }
+}

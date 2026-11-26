@@ -1,0 +1,9 @@
+{
+  "protocol_version": 1,
+  "type": "avatar",
+  "id": "mfers",
+  "name": { "en": "mfers", "zh": "mfers" },
+  "description": { "en": "300 mfers by sartoshi as worker avatars (CC0)", "zh": "300 个 mfer 员工头像，sartoshi 作品（CC0）" },
+  "icon": "icon.svg",
+  "avatars": "avatars"
+}
